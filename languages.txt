@@ -1,7 +1,10 @@
-Look a change!
-
+Programming languages:
 java
 php
 javascript
 python
 c++
+
+Foreign languages:
+English
+Italiano
