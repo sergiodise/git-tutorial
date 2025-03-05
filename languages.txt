@@ -1,10 +1,12 @@
 Programming languages:
-java
-php
-javascript
-python
-c++
+java - strong
+php - weak
+javascript - weak
+python - strong
+c++ - weak
 
 Foreign languages:
-English
-Italiano
+English - strong
+Italiano - weak
+
+
