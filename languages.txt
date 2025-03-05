@@ -1,7 +1,7 @@
 Look a change!
 
-java
-php
-javascript
-python
-c++
+java - strong
+php - weak
+javascript - weak
+python - strong
+c++ - weak
